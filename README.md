@@ -8,4 +8,8 @@ Voila  :)
 
 
 
+![alt text](https://github.com/Millennium-stack/cs50-s-Mario-pyramid-problem-set/blob/master/image/marioGame.jpg?raw=true)
+
+
+
 ![alt text](https://github.com/Millennium-stack/cs50-s-Mario-pyramid-problem-set/blob/master/image/mario.jpg?raw=true)
