@@ -27,8 +27,7 @@ void pyramid(int h)
     
     for (int i = h; i > 0; i--)//keeps count for the number  of rows
     {
-        //for the column fill
-        
+        //to fill the column
         for (j = 0; j < i - 1; j++)
         {
             printf(" ");
